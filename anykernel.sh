@@ -4,8 +4,8 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
-do.devicecheck=1
+kernel.string=topaz kernel blah blah for topaz by dxcvvxd (me)
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
